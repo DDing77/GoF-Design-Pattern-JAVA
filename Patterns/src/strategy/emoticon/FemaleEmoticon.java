@@ -1,7 +1,7 @@
-package emoticon;
+package strategy.emoticon;
 
-import effect.Shining;
-import sound.GirlSound;
+import strategy.effect.Shining;
+import strategy.sound.GirlSound;
 
 public class FemaleEmoticon extends Emoticon {
 

@@ -1,4 +1,4 @@
-package effect;
+package strategy.effect;
 
 public interface Effectable {
 
