@@ -6,6 +6,3 @@
 ```
 
 [notion]()
-
-1. Strategy Pattern
-   * 2024-02-24
