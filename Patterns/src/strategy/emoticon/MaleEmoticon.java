@@ -1,7 +1,7 @@
-package emoticon;
+package strategy.emoticon;
 
-import effect.Forward;
-import sound.ManSound;
+import strategy.effect.Forward;
+import strategy.sound.ManSound;
 
 public class MaleEmoticon extends Emoticon {
 

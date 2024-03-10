@@ -1,7 +1,7 @@
-package emoticon;
+package strategy.emoticon;
 
-import effect.Effectable;
-import sound.Soundable;
+import strategy.effect.Effectable;
+import strategy.sound.Soundable;
 
 public abstract class Emoticon {
 

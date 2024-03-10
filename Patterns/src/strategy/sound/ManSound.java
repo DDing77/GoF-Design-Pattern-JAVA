@@ -1,4 +1,4 @@
-package sound;
+package strategy.sound;
 
 public class ManSound implements Soundable {
 

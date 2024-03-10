@@ -1,7 +1,9 @@
-import effect.Forward;
-import emoticon.Emoticon;
-import emoticon.FemaleEmoticon;
-import emoticon.MaleEmoticon;
+package strategy;
+
+import strategy.effect.Forward;
+import strategy.emoticon.Emoticon;
+import strategy.emoticon.FemaleEmoticon;
+import strategy.emoticon.MaleEmoticon;
 
 public class EmotionSimulator {
 
